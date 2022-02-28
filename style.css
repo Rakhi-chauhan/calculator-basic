@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_div{
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+
+    
+    
+}
+ h1{
+    font-size: 200px;
+}
+input{
+    font-size: 35px;
+}
+button{
+    border-radius:   30px;
+    background:rgb(300, 0, 0) ;
+    width : 100px;
+    height: 50px;
+}
+.tableindex{
+    margin-top: 30px;
+}
+.input_div input{
+    border-radius: 15px;
+}
+.calculator{
+    background-color: rgb(86, 62, 129);
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
+h1{
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
